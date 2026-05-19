@@ -1,4 +1,4 @@
-*KB Analyzer Agent*
+**KB Analyzer Agent**
 
 *Overview*
 
