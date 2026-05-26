@@ -28,7 +28,7 @@ Simple frontend dashboard prototype
 
 **Project Structure**
 
-kb-analyzer-agent/
+`kb-analyzer-agent/
 
 ├── frontend/
 
@@ -44,7 +44,7 @@ kb-analyzer-agent/
 
 ├── requirements.txt
 
-└── README.md
+└── README.md`
 
 **Simple Swimlane Architecture Diagram**
 ![KB-Analyzer-Swimlane-Diagram.png](images/KB-Analyzer-Swimlane-Diagram.png)
@@ -52,26 +52,18 @@ kb-analyzer-agent/
 **Setup Instructions**
 
 1. Clone the Repository
-_____
-git clone <repository-url>
-cd kb-analyzer-agent
-____
+`git clone <repository-url>
+cd kb-analyzer-agent`
 
 2. Create Virtual Environment
-____
-python3 -m venv venv
-source venv/bin/activate
-____
+`python3 -m venv venv
+source venv/bin/activate`
 
 3. Install Dependencies
-----
-pip install -r requirements.txt
-----
+`pip install -r requirements.txt`
 
 4. Run the Project
-____
-python main.py
-____
+`python main.py`
 
 **Current MVP Scope**
 
