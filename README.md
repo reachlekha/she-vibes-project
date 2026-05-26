@@ -47,8 +47,8 @@ kb-analyzer-agent/
 └── README.md
 
 **Simple Swimlane Architecture Diagram**
+![KB-Analyzer-Swimlane-Diagram.png](images/KB-Analyzer-Swimlane-Diagram.png)
 
-![High level architecture diagram] (./image/KB-Analyzer-Swimlane-Diagram.png)
 **Setup Instructions**
 
 1. Clone the Repository
